@@ -1,2 +1,6 @@
-# hello_world
-first github
+# hello_worl
+public class helloWorld{
+  pubulic static void main(String[] args){
+    System.out.println("Hello_World")
+  }
+}
